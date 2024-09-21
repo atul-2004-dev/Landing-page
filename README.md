@@ -8,8 +8,7 @@ This is a simple landing page for **Zerodha**, created using only HTML and CSS. 
 - Clean and modern design.
 - Fully responsive layout for mobile, tablet, and desktop views.
 - Semantic HTML5 elements for better accessibility.
-- CSS Grid and Flexbox used for layout structure.
-- Simple navigation bar with hover effects.
+- Simple navigation bar .
 - Footer with important links and social media icons.
 
 ## Technologies
